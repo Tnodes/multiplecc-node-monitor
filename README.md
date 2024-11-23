@@ -20,7 +20,7 @@ A Telegram bot that monitors Multiple.cc nodes and provides status updates. The 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tnodes/multiplecc-node-monitor.git
 cd multiplecc-node-monitor
 ```
 
